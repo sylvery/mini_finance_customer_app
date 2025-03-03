@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019412228233",
+    "project_id": "lesfordlati-2d5ec",
+    "storage_bucket": "lesfordlati-2d5ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019412228233:android:6659748e7e7ac43ed0fe58",
+        "android_client_info": {
+          "package_name": "com.sudotechweb.minficustomerapp.mini_finance_customer_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIqHdEz1i4DDX4N7fZdZltLZErDWs3QFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
